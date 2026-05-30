@@ -1,0 +1,98 @@
+JAMB PAST QUESTIONS DATABASE
+
+=== MATHEMATICS ===
+Q: If 2x + 3 = 7, find x
+A: x = 2
+Explanation: Subtract 3 from both sides: 2x = 4, then divide by 2: x = 2
+
+Q: What is the derivative of x^2?
+A: 2x
+Explanation: Using the power rule: bring down the exponent and reduce it by 1
+
+Q: Simplify (x^2 - 4)/(x - 2)
+A: x + 2
+Explanation: Factor numerator as (x+2)(x-2), cancel (x-2) to get x+2
+
+Q: Find the value of sin(30°)
+A: 0.5
+Explanation: sin(30°) = 1/2 = 0.5, this is a standard trigonometric value
+
+Q: If log(x) = 2, find x
+A: x = 100
+Explanation: log base 10 of x = 2 means x = 10^2 = 100
+
+=== PHYSICS ===
+Q: What is Newton's Second Law of Motion?
+A: Force equals mass times acceleration (F = ma)
+Explanation: The acceleration of an object depends on the net force acting on it and its mass
+
+Q: What is the unit of electric current?
+A: Ampere (A)
+Explanation: Electric current is measured in Amperes, named after Andre-Marie Ampere
+
+Q: Calculate the speed of an object that travels 100m in 5 seconds
+A: 20 m/s
+Explanation: Speed = Distance/Time = 100/5 = 20 m/s
+
+Q: What is the law of conservation of energy?
+A: Energy cannot be created or destroyed, only transformed
+Explanation: The total energy in a closed system remains constant
+
+Q: What is the frequency of a wave with period 0.02 seconds?
+A: 50 Hz
+Explanation: Frequency = 1/Period = 1/0.02 = 50 Hz
+
+=== CHEMISTRY ===
+Q: What is the atomic number of Carbon?
+A: 6
+Explanation: Carbon has 6 protons in its nucleus, giving it atomic number 6
+
+Q: What is the chemical formula for water?
+A: H2O
+Explanation: Water consists of 2 hydrogen atoms bonded to 1 oxygen atom
+
+Q: Balance this equation: H2 + O2 → H2O
+A: 2H2 + O2 → 2H2O
+Explanation: We need 4 hydrogen and 2 oxygen on each side to balance
+
+Q: What type of bond is formed between Na and Cl?
+A: Ionic bond
+Explanation: Sodium transfers an electron to Chlorine, creating oppositely charged ions that attract
+
+Q: What is the pH of a neutral solution?
+A: 7
+Explanation: pH 7 is neutral, below 7 is acidic, above 7 is basic/alkaline
+
+=== ENGLISH ===
+Q: Identify the figure of speech: 'The wind whispered through the trees'
+A: Personification
+Explanation: Giving human qualities (whispering) to a non-human thing (wind)
+
+Q: What is a synonym for 'eloquent'?
+A: Articulate, fluent, expressive
+Explanation: Eloquent means well-spoken and persuasive in language
+
+Q: Identify the grammatical error: 'Neither John nor his friends was present'
+A: 'was' should be 'were'
+Explanation: With 'neither...nor', the verb agrees with the noun closest to it (friends = plural = were)
+
+Q: What is the plural of 'curriculum'?
+A: Curricula
+Explanation: Curriculum is a Latin word, its plural follows Latin rules: curricula
+
+=== BIOLOGY ===
+Q: What is the powerhouse of the cell?
+A: Mitochondria
+Explanation: Mitochondria produce ATP through cellular respiration, providing energy for cell activities
+
+Q: What is osmosis?
+A: Movement of water from low concentration to high concentration through a semi-permeable membrane
+Explanation: Water moves to dilute the more concentrated solution until equilibrium is reached
+
+Q: What is the function of the nucleus in a cell?
+A: Controls cell activities and contains genetic material (DNA)
+Explanation: The nucleus acts as the control center, directing protein synthesis and cell reproduction
+
+Q: Name the four bases found in DNA
+A: Adenine, Thymine, Guanine, Cytosine
+Explanation: A pairs with T, G pairs with C in the double helix structure
